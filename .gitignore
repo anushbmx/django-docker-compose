@@ -20,11 +20,6 @@ ehthumbs.db
 Thumbs.db
 
 
-# Android/IntelliJ
-#
-build/
-.idea
-.gradle
-local.properties
-*.iml
+# Environment
+.env
 
